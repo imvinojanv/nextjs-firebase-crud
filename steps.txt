@@ -1,0 +1,9 @@
+### Project Setup
+-   Install Next App
+-   Install firebase
+-   Setup Firebase
+-   Create a new lib file for firebaseConfig
+-   Write the crud functions
+
+
+YT Tutorial: https://www.youtube.com/watch?v=GTWBCeiPfgQ
